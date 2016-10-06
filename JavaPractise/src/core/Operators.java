@@ -49,7 +49,7 @@ public class Operators {
         } catch (InterruptedException e) {
             e.printStackTrace();
         } finally{
-            System.out.println("core.Test " + i);
+            System.out.println("core.ReverseArr " + i);
         }
         }
     }
